@@ -20,7 +20,7 @@ const Hero = () => {
             S.P. Praveena
           </h1>
           <p className="text-xl md:text-2xl text-primary-foreground/90 font-medium">
-            Computer Science Engineer | Data Mining Specialist
+            Assistant Professor | Information Technology
           </p>
           <p className="text-lg text-primary-foreground/80 max-w-2xl mx-auto">
             M.E. in Computer Science and Engineering with expertise in Data Mining, Data Warehousing, and cutting-edge research in feature reduction techniques
